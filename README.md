@@ -3,6 +3,7 @@
 - 🌱 I'm proficient in MERN Stack and React Native. I'm comfortable with technologies including Next JS, Nest JS, Spring Boot, Quarkuas, Dockers, K8s, Tailwind CSS, Redux Toolkit, Express JS, MySQL, MongoDB, PostgreSQL etc.
 - 💞️ I’m looking to collaborate on Web and Mobile App development projects
 - 📫 How to reach me: You can reach me at shajeebinwaqar@gmail.com
+- My Portfolio: https://shajeebinwaqar.netlify.app/
 
 <!---
 Shajee98/Shajee98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
