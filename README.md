@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @Shajee98
-- 👀 I’m interested in Mobile and Web App Developement. I understand the software development lifecycle, initiating from requirement gathering, through development using best practices, unit and E2E testing, and finally deployment and automation.
-- 🌱 I'm proficient in MERN Stack and React Native. I'm comfortable with technologies including Next JS, Nest JS, Spring Boot, Quarkuas, Dockers, K8s, Tailwind CSS, Redux Toolkit, Express JS, MySQL, MongoDB, PostgreSQL etc.
-- 💞️ I’m looking to collaborate on Web and Mobile App development projects
-- 📫 How to reach me: You can reach me at shajeebinwaqar@gmail.com
-- My Portfolio: https://shajeebinwaqar.netlify.app/
+👋 Hi, I’m Shajee Waqar (@Shajee98)
+
+I’m a software engineer specializing in web and mobile application development, with a strong understanding of the complete software development lifecycle — from requirement analysis and system design to implementation, testing, deployment, and automation. I focus on building scalable, maintainable, and performance-oriented applications using modern engineering best practices.
+
+I’m proficient in the MERN stack and React Native, and have hands-on experience with a wide range of technologies including Next.js, NestJS, FastAPI, Python, Spring Boot, Quarkus, Docker, Kubernetes, Tailwind CSS, Redux Toolkit, Express.js, MySQL, MongoDB, and PostgreSQL. I’m comfortable working across frontend, backend, and infrastructure layers, and have experience integrating APIs, handling authentication and authorization, and optimizing systems for production environments.
+
+I’m interested in collaborating on web, mobile, and AI-enabled application projects, particularly those that require thoughtful architecture and long-term scalability.
+
+📫 How to reach me:
+Email: shajeebinwaqar@gmail.com
+Portfolio: https://shajeebinwaqar.netlify.app/
 
 <!---
 Shajee98/Shajee98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
