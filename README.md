@@ -7,8 +7,8 @@ I’m proficient in the MERN stack and React Native, and have hands-on experienc
 I’m interested in collaborating on web, mobile, and AI-enabled application projects, particularly those that require thoughtful architecture and long-term scalability.
 
 📫 How to reach me:
-Email: shajeebinwaqar@gmail.com
-Portfolio: https://shajeebinwaqar.netlify.app/
+- Email: shajeebinwaqar@gmail.com
+- Portfolio: https://shajeebinwaqar.netlify.app/
 
 <!---
 Shajee98/Shajee98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
